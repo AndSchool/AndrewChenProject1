@@ -7,7 +7,7 @@ public class Main
 {
     public static void main(String[] args)
     {
-        Scanner scan = new Scanner(System.in);  // create a Scanner "object"
+        Scanner scan = new Scanner(System.in);  // create a scanner "object"
 
         System.out.println("--------------------------------------------------");
         System.out.println("| Note! do not use any symbols when inputting data! (no $ or %) |");
